@@ -3,6 +3,7 @@ This script is designed to fix the video playback issues on the Dora-Family webs
 ## README
 
 # Dora-Family Video Player Fix
+![image](https://github.com/user-attachments/assets/16e0634d-d2d8-41e3-adcd-4337f51627eb)
 
 This script is designed to fix the video playback issues on the [Dora-Family website](https://www.dora-family.com/Resource:TV?variant=zh-sg). It uses a third-party player to play the videos in a new browser window when a video is selected.
 
