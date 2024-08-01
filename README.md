@@ -98,7 +98,7 @@ This script is designed to fix the video playback issues on the [Dora-Family web
     // @version      1.0
     // @description  Fixes video playback issues on Dora-Family website using a third-party player.
     // @author       Your Name
-    // @match        https://www.dora-family.com/Resource:TV?variant=zh-sg
+    // @match        https://www.dora-family.com/Resource:TV
     // @grant        none
     // ==/UserScript==
 
